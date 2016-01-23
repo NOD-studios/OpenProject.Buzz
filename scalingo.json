@@ -1,8 +1,8 @@
 {
-  "name": "Telescope",
-  "description": "An open-source community app built with Meteor",
-  "repository": "https://github.com/TelescopeJS/sample-project/",
+  "name": "OpenProject.Buzz",
+  "description": "An open-source community buzz",
+  "repository": "https://github.com/NOD-studios/OpenProject.Buzz/",
   "logo": "http://www.telescopeapp.org/images/logo.png",
-  "website": "http://www.telescopeapp.org/",
+  "website": "http://www.openproject.buzz/",
   "addons": ["scalingo-mongodb"]
 }
