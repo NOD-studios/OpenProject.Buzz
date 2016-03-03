@@ -1,3 +1,6 @@
-### [OpenProject.Buzz](http://openproject.buzz)
+### [![OpenProject.Buzz][logo-image]][logo-url]
 
-Open source trends
+Trending open source projects
+
+[logo-image]: https://raw.githubusercontent.com/NOD-studios/OpenProject.Buzz/master/public/img/logo.small.png
+[logo-url]: http://openproject.buzz
